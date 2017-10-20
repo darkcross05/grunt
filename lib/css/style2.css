@@ -1,0 +1,23 @@
+h1{
+  font-family:Helvetica,Geneva,Arial,SunSans-Regular,sans-serif
+}
+ul.navbar li{
+  background:#fff;
+  margin:.5em 0;
+  padding:.3em;
+  border-right:1em solid #000
+}
+ul.navbar a{
+  text-decoration:none
+}
+a:link{
+  color:#00f
+}
+a:visited{
+  color:purple
+}
+address{
+  margin-top:1em;
+  padding-top:1em;
+  border-top:thin dotted
+}
